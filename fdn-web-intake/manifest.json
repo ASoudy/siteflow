@@ -1,5 +1,5 @@
 {
-  "name": "FDN Web Intake",
+  "name": "FDN Web Intake – Website to Figma",
   "id": "dom-to-figma-importer",
   "api": "1.0.0",
   "main": "dist/code.js",

@@ -1,6 +1,14 @@
 # FDN Web
 
-**FDN Web** is a seamless bridge between the web and Figma. Turn any webpage into editable Figma designs in seconds.
+> **A web intake pipeline for design reconstruction**
+
+**FDN Web** is a pipeline that converts live websites into structured, editable Figma designs using real DOM data.
+
+### What it is NOT
+* Not AI
+* Not screenshots
+* Not scraping
+* Not design-to-code
 
 ## Components
 

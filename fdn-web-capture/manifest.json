@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "FDN Web Capture",
+    "name": "FDN Web Capture – Website to Figma",
     "version": "1.0",
-    "description": "Export any webpage to JSON for Figma import",
+    "description": "Capture website DOM and export it for accurate Figma reconstruction.",
     "permissions": [
         "activeTab",
         "scripting"
