@@ -1,6 +1,6 @@
 {
   "name": "FDN Web Intake – Website to Figma",
-  "id": "dom-to-figma-importer",
+  "id": "1602443417999897484",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "src/ui.html",
