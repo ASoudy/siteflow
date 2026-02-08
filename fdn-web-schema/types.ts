@@ -1,6 +1,6 @@
 /**
- * Siteflow Schema Definitions
- * Defines the structure of the JSON export used by Siteflow.
+ * FDN Web Schema Definitions
+ * Defines the structure of the JSON export used by FDN Web.
  */
 
 export interface FigmaNodeData {

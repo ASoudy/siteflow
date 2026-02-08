@@ -23,7 +23,7 @@ FDN Web uses a standardized JSON format to represent web content. This allows an
 You can use `types.ts` to type-check your generator:
 
 ```typescript
-import { FigmaNodeData } from './siteflow-schema/types';
+import { FigmaNodeData } from './fdn-web-schema/types';
 
 const myNode: FigmaNodeData = {
   type: 'FRAME',

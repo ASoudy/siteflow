@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "Siteflow Export Schema",
-    "description": "Schema for JSON data exported by Siteflow Capture extension",
+    "title": "FDN Web Export Schema",
+    "description": "Schema for JSON data exported by FDN Web Capture extension",
     "type": "object",
     "required": [
         "type",

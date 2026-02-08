@@ -15,7 +15,7 @@ A Chrome/Edge extension that captures any webpage and exports it as a JSON file 
 2.  Open Chrome/Edge and navigate to `chrome://extensions` or `edge://extensions`.
 3.  Enable **Developer mode**.
 4.  Click **Load unpacked**.
-5.  Select this `siteflow-capture` folder.
+5.  Select this `fdn-web-capture` folder.
 
 ## Usage
 

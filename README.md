@@ -12,8 +12,8 @@ This repository contains the entire FDN Web ecosystem:
 
 ## Getting Started
 
-1.  **Install the Extension**: Load `siteflow-capture` as an unpacked extension in Chrome/Edge.
-2.  **Install the Plugin**: Import `siteflow-figma` into Figma Desktop.
+1.  **Install the Extension**: Load `fdn-web-capture` as an unpacked extension in Chrome/Edge.
+2.  **Install the Plugin**: Import `fdn-web-intake` into Figma Desktop.
 3.  **Flow**:
     -   Go to a website.
     -   Click **FDN Web Capture** -> Export.
