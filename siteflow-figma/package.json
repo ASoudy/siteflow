@@ -1,0 +1,23 @@
+{
+    "name": "siteflow-figma",
+    "version": "1.0.0",
+    "description": "Figma plugin to import DOM-to-Figma JSON exports",
+    "main": "dist/code.js",
+    "scripts": {
+        "build": "tsc -p tsconfig.json",
+        "watch": "tsc -p tsconfig.json --watch",
+        "clean": "rimraf dist"
+    },
+    "devDependencies": {
+        "@figma/plugin-typings": "^1.98.0",
+        "typescript": "^5.3.3",
+        "rimraf": "^5.0.5"
+    },
+    "keywords": [
+        "figma",
+        "plugin",
+        "dom",
+        "import"
+    ],
+    "license": "MIT"
+}
