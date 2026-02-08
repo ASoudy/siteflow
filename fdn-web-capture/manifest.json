@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Siteflow Capture",
+    "name": "FDN Web Capture",
     "version": "1.0",
     "description": "Export any webpage to JSON for Figma import",
     "permissions": [

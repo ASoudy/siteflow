@@ -1,6 +1,6 @@
-# Siteflow Figma Plugin
+# FDN Web Figma Plugin
 
-A Figma plugin that imports Siteflow JSON files and recreates the webpage design with high fidelity.
+A Figma plugin that imports FDN Web JSON files and recreates the webpage design with high fidelity.
 
 ## Features
 
@@ -32,6 +32,6 @@ A Figma plugin that imports Siteflow JSON files and recreates the webpage design
 
 ## Usage
 
-1.  Run the **Siteflow Figma Importer** plugin.
+1.  Run the **FDN Web Figma Importer** plugin.
 2.  Drag and drop your exported JSON file(s).
 3.  Click **Import to Figma**.

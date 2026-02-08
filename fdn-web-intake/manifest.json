@@ -1,5 +1,5 @@
 {
-  "name": "Siteflow Figma Importer",
+  "name": "FDN Web Intake",
   "id": "dom-to-figma-importer",
   "api": "1.0.0",
   "main": "dist/code.js",

@@ -1,6 +1,6 @@
-# Siteflow Capture
+# FDN Web Capture
 
-A Chrome/Edge extension that captures any webpage and exports it as a JSON file compatible with the Siteflow Figma plugin.
+A Chrome/Edge extension that captures any webpage and exports it as a JSON file compatible with the FDN Web Figma plugin.
 
 ## Features
 
@@ -20,6 +20,6 @@ A Chrome/Edge extension that captures any webpage and exports it as a JSON file 
 ## Usage
 
 1.  Navigate to the webpage you want to capture.
-2.  Click the Siteflow icon in the toolbar.
+2.  Click the FDN Web icon in the toolbar.
 3.  Click **Export Page**.
 4.  Save the generated JSON file.

@@ -1,5 +1,5 @@
 {
-    "name": "siteflow-figma",
+    "name": "fdn-web-intake",
     "version": "1.0.0",
     "description": "Figma plugin to import DOM-to-Figma JSON exports",
     "main": "dist/code.js",

@@ -1,10 +1,10 @@
-# Siteflow Schema
+# FDN Web Schema
 
-The shared JSON schema and type definitions for the Siteflow ecosystem.
+The shared JSON schema and type definitions for the FDN Web ecosystem.
 
 ## Overview
 
-Siteflow uses a standardized JSON format to represent web content. This allows any tool to generate compatible files for the Figma importer.
+FDN Web uses a standardized JSON format to represent web content. This allows any tool to generate compatible files for the Figma importer.
 
 ## File Structure
 
